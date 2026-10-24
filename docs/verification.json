@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-24",
+  "python_ast_files": 9,
+  "probability_checks": "PASS",
+  "sample_S100_K100_D30_IV50": {
+    "probability": 48.3,
+    "prob_call": 48.3,
+    "prob_put": 51.7,
+    "direction": "UP",
+    "pct_move": 0.0,
+    "days_left": 30,
+    "iv": 50
+  },
+  "docker": "UNAVAILABLE: Linux engine pipe missing",
+  "frontend": "UNAVAILABLE: localhost:3000 connection refused",
+  "backend": "UNAVAILABLE: localhost:8000 connection refused",
+  "integration_tests": "NOT RUN",
+  "provider_calls": "NOT RUN"
+}

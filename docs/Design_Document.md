@@ -367,7 +367,7 @@ Repository and submission contents
 
 The clean source bundle contains the active backend/, frontend/, Docker Compose files, configuration example, Windows launcher, existing integration-check script and documentation. Legacy Express/vanilla-JS server/ and public/ folders are excluded because the Docker application uses FastAPI and Next.js; db/data.json and all environment secrets are also excluded. The manifest records relative paths, sizes and SHA-256 hashes for traceability.
 
-Verified source repository: https://github.com/Panupon777/stock-option-analyzer. Visibility is Private. The initial upload was verified against the local prepared commit. A private URL does not grant access by itself: the assessor must be invited as a collaborator and accept the invitation before reviewing the source. University-server deployment remains unverified.
+Verified source repository: https://github.com/Panupon777/stock-option-analyzer. Visibility is Public so the assessor can review and clone it without an invitation. The source release omits real environment files and user databases, removes insecure credential fallbacks, and requires the reviewer to supply their own provider keys and secrets. Published history was rebuilt from the sanitized source. University-server deployment remains unverified.
 
 Known implementation limitations
 

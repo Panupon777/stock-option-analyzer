@@ -54,4 +54,4 @@ No broker orders or automated bank payments are executed. Subscription approval 
 
 ## Submission access
 
-Repository: https://github.com/Panupon777/stock-option-analyzer (Private). The assessor must be invited using their GitHub account and accept the invitation; possession of the URL alone does not grant access. Never upload your real `.env`, personal account data or database backups.
+Repository: https://github.com/Panupon777/stock-option-analyzer (Public). The assessor can view and clone the source without an invitation. Never upload your real `.env`, personal account data or database backups.
